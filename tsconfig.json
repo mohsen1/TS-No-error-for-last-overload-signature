@@ -1,0 +1,25 @@
+{
+  "include": ["src", "@types", "index.d.ts"],
+  "compilerOptions": {
+    "module": "esnext",
+    "lib": ["dom", "esnext"],
+    "importHelpers": true,
+    "declaration": true,
+    "sourceMap": true,
+    "rootDir": "./src",
+    "outDir": "dist",
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "typeRoots": [ "node_modules/@types/", "@types/"],
+    "baseUrl": "./",
+    "paths": {
+      "*": ["src/*", "@types/*", "node_modules/*"]
+    },
+    "jsx": "react",
+    "esModuleInterop": true
+  }
+}
