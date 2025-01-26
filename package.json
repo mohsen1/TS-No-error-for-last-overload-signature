@@ -43,6 +43,6 @@
     "@types/validator": "^13.0.0",
     "graphql": "^15.0.0",
     "graphql-sequelize": "^9.4.0",
-    "sequelize": "^5.21.6"
+    "sequelize": "^5.22.5"
   }
 }
