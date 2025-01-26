@@ -2802,10 +2802,10 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.6
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.3.tgz#4a12ff1b60376ef09862c2093edd908328be8423"
   integrity sha512-a30VEBm4PEdx1dRB7MFK7BejejvCvBronbLjht+sHuGYj8PHs7M/5Z+rt5lw551vZ7yfTCj4Vuyy3mSJytDWRQ==
 
-graphql-sequelize@^9.4.0:
-  version "9.4.0"
-  resolved "https://registry.yarnpkg.com/graphql-sequelize/-/graphql-sequelize-9.4.0.tgz#451223fdf0c27021b8bf50824ae8ec66e979e91f"
-  integrity sha512-hEoNoEcHn+v4dmWDb1yAh6/AFX6RcMGoHq3H3oiJcmRDRmS+8CVpPgaIW7E3ibWVpf/o2I1HOzgB+QFnPJ2LhQ==
+graphql-sequelize@^9.5.1:
+  version "9.5.1"
+  resolved "https://registry.yarnpkg.com/graphql-sequelize/-/graphql-sequelize-9.5.1.tgz#8906eb90c1b88a8d197ad5a9fe19ffe8879538a3"
+  integrity sha512-15fLr3rbgXwJWh83iHHnwx42EcbWMfn68c01N4bhKhBJCcX6NNMHGKXdnW2/9OkxYyPnFQMjjcRe8FZfvMLyMA==
   dependencies:
     bluebird "^3.4.0"
     invariant "2.2.1"
